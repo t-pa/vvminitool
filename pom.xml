@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.t-pa</groupId>
     <artifactId>vvminitool</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <packaging>jar</packaging>
     
     <name>vvminitool</name>
-    <!-- <url></url> -->
+    <url>https://github.com/t-pa/vvminitool</url>
     <prerequisites>
         <maven>3.0</maven>
     </prerequisites>
